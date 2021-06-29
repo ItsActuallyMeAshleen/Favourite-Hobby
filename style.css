@@ -1,0 +1,54 @@
+#welcome{
+    background:linear-gradient( #edd2fa 0%, 
+#dcfaf9 100%);
+    z-index: 9;
+}
+body{
+    text-align: center;
+ margin: 0;
+}
+
+img{
+    width:150px;
+    border-radius: 60%;
+    margin-bottom: 50px;
+
+}
+
+h1{
+    font-size:40px;
+    font-family: monospace;
+    font-weight: 100;
+    text-shadow: 5px 5px #f7f3d0;
+}
+
+#about{
+    font-size: 18px;
+   text-align: center; 
+    padding: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:cadetblue;
+    z-index: 10;
+}
+
+.links{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+.links:hover{
+    background-color: lavenderblush;
+}
+
+.id{
+    font-family: 'Big Shoulders Display', cursive;
+}
