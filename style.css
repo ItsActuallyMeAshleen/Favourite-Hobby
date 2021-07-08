@@ -90,3 +90,19 @@ h1{
 #img:hover{
     transform: scale(0.9);
 }
+
+#contacts{
+    background-color: darkseagreen;
+    
+}
+#contacts iframe{
+    width:100%;
+}
+
+.contacts_2 h3{
+    display: inline;
+}
+.contacts_2 a{
+    color: white;
+    text-shadow: none;
+}
